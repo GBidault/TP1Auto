@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".LivreActivity" />
         <activity android:name=".ComActivity" />
-        <activity android:name=".CreateComActivity"></activity>
+        <activity android:name=".CreateComActivity" />
+        <activity android:name=".CreateLivreActivity"></activity>
     </application>
 
 </manifest>
